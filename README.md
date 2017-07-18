@@ -1,1 +1,3 @@
-# Rails
+# Welcome to Rails
+
+## Getting Started
