@@ -21,7 +21,11 @@
  
  ![screen shot 2017-07-20 at 9 52 23 am](https://user-images.githubusercontent.com/26729817/28397114-288e2fc8-6d32-11e7-9e62-91a60ad73219.png)
  
- - 
+ - New Article lets you add another item or blog and this will ask for the username & password set in the controller.
+ 
+ ![screen shot 2017-07-20 at 9 52 43 am](https://user-images.githubusercontent.com/26729817/28397154-5f34341e-6d32-11e7-910a-4db420d2bf9f.png)
+ 
+ 
 
  
 
