@@ -33,6 +33,10 @@
 ![screen shot 2017-07-20 at 10 21 13 am](https://user-images.githubusercontent.com/26729817/28397603-31faa156-6d35-11e7-8c61-2d5ecf3b9353.png)
 
 - Lastly,DESTROY lets you delete or remove the article/item that was created. A warning message will prompt asking you for the confirmation.
+![screen shot 2017-07-20 at 10 23 40 am](https://user-images.githubusercontent.com/26729817/28397717-f659de18-6d35-11e7-9586-b97067ca18ba.png)
+
+![screen shot 2017-07-20 at 10 23 55 am](https://user-images.githubusercontent.com/26729817/28397721-fe454e1e-6d35-11e7-9eb8-bca57108f58b.png)
+
  
  
  
