@@ -17,7 +17,11 @@
  
  ![screen shot 2017-07-20 at 9 52 06 am](https://user-images.githubusercontent.com/26729817/28397063-c8479032-6d31-11e7-875a-e09d525bd516.png)
  
- - If you press enter, it will bring you the next page
+ - Press ENTER to bring you to the next page
+ 
+ ![screen shot 2017-07-20 at 9 52 23 am](https://user-images.githubusercontent.com/26729817/28397114-288e2fc8-6d32-11e7-9e62-91a60ad73219.png)
+ 
+ - 
 
  
 
