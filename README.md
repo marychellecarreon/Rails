@@ -20,6 +20,8 @@
  ![screen shot 2017-07-20 at 9 52 23 am](https://user-images.githubusercontent.com/26729817/28397114-288e2fc8-6d32-11e7-9e62-91a60ad73219.png)
  
  - NEW ARTICLE lets you add another item or blog but before doing so, the app will ask for the username & password set in the controller
+     Username: marychellecarreon
+     Password: geoffgeoff
  ![screen shot 2017-07-20 at 9 52 43 am](https://user-images.githubusercontent.com/26729817/28397154-5f34341e-6d32-11e7-910a-4db420d2bf9f.png)
  ![screen shot 2017-07-20 at 9 55 40 am](https://user-images.githubusercontent.com/26729817/28397229-f0ce9694-6d32-11e7-990d-ea9d8c83c4ae.png)
  
@@ -28,6 +30,7 @@
  
  - EDIT lets you to change/modify the article/item that was created. In this case, we have changed the title of the first article from "Getting Up and Running" to "Another one" 
 ![screen shot 2017-07-20 at 10 15 40 am](https://user-images.githubusercontent.com/26729817/28397543-cac48ff6-6d34-11e7-98cf-44c484ff685b.png)
+![screen shot 2017-07-20 at 10 21 13 am](https://user-images.githubusercontent.com/26729817/28397603-31faa156-6d35-11e7-8c61-2d5ecf3b9353.png)
  
  
  
