@@ -10,7 +10,7 @@
   
   
 ### Others
- To make this blog application looks presentable, I applied Bootstrap and CSS for the layout.
+ To make this blog application look presentable, I applied Bootstrap and CSS for the layout.
 
 ### Screenshot
  - Front page
