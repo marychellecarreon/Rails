@@ -31,6 +31,8 @@
  - EDIT lets you to change/modify the article/item that was created. In this case, we have changed the title of the first article from "Getting Up and Running" to "Another one" 
 ![screen shot 2017-07-20 at 10 15 40 am](https://user-images.githubusercontent.com/26729817/28397543-cac48ff6-6d34-11e7-98cf-44c484ff685b.png)
 ![screen shot 2017-07-20 at 10 21 13 am](https://user-images.githubusercontent.com/26729817/28397603-31faa156-6d35-11e7-8c61-2d5ecf3b9353.png)
+
+- Lastly,DESTROY lets you delete or remove the article/item that was created. A warning message will prompt asking you for the confirmation.
  
  
  
